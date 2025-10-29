@@ -1,0 +1,7 @@
+{
+  "name": "parkometer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
